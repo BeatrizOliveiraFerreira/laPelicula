@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: #000000;
+    border: white;
+}
+
+h1 {
+    background-color: brown;
+    color: white;
+    padding: 20px;
+}
+
+h3 {
+    color: white;
+}
+
+button {
+    margin-bottom: 20px;
+    background-color: rgb(31, 121, 13);
+    color: white;
+    cursor: pointer;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.cinderela-video {
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: rgb(5, 173, 5);
+    color: rgb(255, 255, 255);
+}
+
+@media screen and (min-width: 990px) {
+    body {
+        align-items: flex-start;
+    }
+}
