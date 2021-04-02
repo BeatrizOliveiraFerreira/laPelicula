@@ -13,16 +13,4 @@ function bailarina() {
 function cinderela() {
     document.getElementById("cinderela").innerHTML = "Esta versão do clássico conto de fadas conta a história do sonho que se torna realidade por meio de inesquecíveis canções e personagens encantadores como ratinhos, a madrasta e a fada madrinha.";
 }
-
-function reiArthur() {
-    document.getElementById("arthur").innerHTML = "Adaptação da Disney da fábula sobre as origens humildes do Rei Arthur. Como uma criança órfã, Arthur era conhecido como Wart, que queria ajudar seu irmão adotivo Kay a ser um cavaleiro. Enquanto ajudava Kay em seu treinamento, Wart se deparou com uma cabana pertencente a Merlin, um mago desastrado, mas talentoso. Merlin faz o possível para convencer o menino que ele está destinado à grandeza e quando viaja com Kay para Londres para atender uma competição, eles descobrem que Merlin tinha razão.";
-}
-
-function brancaDeNeve() {
-    document.getElementById("branca-de-neve").innerHTML = "A rainha malvada morre de ciúmes da beleza de Branca de Neve e manda mata-la. Logo, descobre que a jovem não morreu e está morando na floresta com sete amiguinhos. A princesa então é envenenada pela rainha e só o beijo de um príncipe pode salvá-la.";
-}
-
-function coraline() {
-    document.getElementById("coraline").innerHTML = "Enquanto explora sua nova casa à noite, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Todos têm botões no lugar dos olhos, os pais são carinhosos e os sonhos de Coraline viram realidade por lá. Ela se encanta com essa descoberta, mas logo percebe que segredos estranhos estão em ação: uma outra mãe e o resto de sua família tentam mantê-la eternamente nesse mundo paralelo.";
-}
     
